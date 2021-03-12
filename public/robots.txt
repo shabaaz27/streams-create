@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+
+client-ID 293658484308-f0ucfvv09gdg88fddm2c13f3vcsonhob.apps.googleusercontent.com
